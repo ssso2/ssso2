@@ -1,42 +1,19 @@
 <div align="center">
   
-  ## Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssso2%2Fssso2&count_bg=%23AEE1FF&title_bg=%23BCBCBC&icon=homeassistant.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-<!--  
-🎈**Tech Stack**
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-E34F26?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&pause=1000&color=71CAF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sohee+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-
-🎈**Tech Stack**
-
-<a href="www.naver.com" target="_blank"><img src="https://img.shields.io/badge/velog-20C9976?style=flat&logo=velog&logoColor=white"/></a>
-<br>
-
-
-
-🎈**Status**
+<div display="flex-container">
+<a href="https://github.com/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssso2&theme=react-dark&hide_title=true&bg_color=transparent&radius=8&height=395" width="50%">
+</a>
+<a href="https://github.com/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssso2&layout=compact&theme=transparent" width="30%">
+</a>
 </div>
 
+<br>
+<br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssso2%2Fssso2&count_bg=%236ACAE3&title_bg=%23D4D9DA&icon=&icon_color=%23FFFFFF&title=View&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**ssso2/ssso2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
