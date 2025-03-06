@@ -5,9 +5,9 @@
 <h2>안녕하세요. 프론트엔드 개발자 김소희입니다🔥</h2>
 
 ### `Project`
-신라호텔 : <a href="https://github.com/team-moabam/moabam-FE">Repository</a> | <a href="https://www.moabam.com">Service</a>
+신라호텔 : <a href="https://github.com/ssso2/hotel_renewal">Repository</a> | <a href="http://gagaclub.cafe24app.com/">Service</a>
 <br>
-조말론 : <a href="https://github.com/team-moabam/moabam-FE">Repository</a> | <a href="https://www.moabam.com">Service</a>
+조말론 : <a href="https://github.com/ssso2/perfume_renewal">Repository</a> | <a href="https://web-jomaloneclonefront-m5w8vc08a2903486.sel4.cloudtype.app/">Service</a>
 <br>
 <br>
 
