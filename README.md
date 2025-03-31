@@ -5,7 +5,7 @@
 <h2>안녕하세요. 프론트엔드 개발자 김소희입니다🔥</h2>
 
 ### `Project`
-씬-기록 : <a href="https://github.com/ssso2/diary_project">Repository</a> | <a href="https://web-diary-client-m8r5t7itca1555cb.sel4.cloudtype.app/home/stats">Service</a>
+씬-기록 : <a href="https://github.com/ssso2/diary_project">Repository</a> | <a href="https://web-diary-client-m8r5t7itca1555cb.sel4.cloudtype.app">Service</a>
 <br>
 신라호텔 : <a href="https://github.com/ssso2/hotel_renewal">Repository</a> | <a href="http://gagaclub.cafe24app.com/">Service</a>
 <br>
