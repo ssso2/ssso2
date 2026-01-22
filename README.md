@@ -2,7 +2,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&pause=1000&color=71CAF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sohee+)](https://git.io/typing-svg)
   
-<h2>안녕하세요. 프론트엔드 개발자 김소희입니다🔥</h2>
+<!-- <h2>안녕하세요. 프론트엔드 개발자 김소희입니다🔥</h2>
 
 ### `Project`
 씬-기록 : <a href="https://github.com/ssso2/diary_project">Repository</a> | <a href="https://web-diary-client-m8r5t7itca1555cb.sel4.cloudtype.app">Service</a>
@@ -34,7 +34,7 @@
 
 ### `More`
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kpong358@gmail.com)](mailto:kpong358@gmail.com)
-[![Velog_Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@ssssso2/posts)
+[![Velog_Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@ssssso2/posts) -->
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssso2%2Fssso2&count_bg=%236ACAE3&title_bg=%23D4D9DA&icon=&icon_color=%23FFFFFF&title=View&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
